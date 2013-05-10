@@ -153,7 +153,7 @@
       <object>objects\obj_victory</object>
     </objects>
   </objects>
-  <rooms name="rooms" roommaxid="100487" room_maxtileid="10000285">
+  <rooms name="rooms" roommaxid="102138" room_maxtileid="10001474">
     <room>rooms\Keller_01</room>
     <room>rooms\Wald_01</room>
     <room>rooms\Trader</room>

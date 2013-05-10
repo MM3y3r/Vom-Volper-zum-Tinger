@@ -34,7 +34,7 @@ part_type_shape(p_type,pt_shape_pixel) //Hier wird der Typ des Partikelsystems f
 part_type_size(p_type,0,1,0.1,1) //Die gr��e des Partikel Typ's wird gesetzt,hierbei gibt es Maximale- und Minimale gr��e//
 part_type_color3(p_type,c_purple,make_color_rgb(250,130,0),c_red) //Hier wird die Farbe der Partikel gesetzt,Lila f�r den kleinen w�rme effekt unten an der Flamme,ein Orange Ton f�r einen guten �bergang zu Rot//
 part_type_life(p_type,20,40) //Hier wird die Lebenszeit der Partikel gesetzt//
-part_type_speed(p_type,0.1,1,0.2,1) //Hier wird die Geschwindigkeit der Partikel gesetzt,f�r eine Lebendige Flamme :)//
+part_type_speed(p_type,0.1,1,0.0.2,1) //Hier wird die Geschwindigkeit der Partikel gesetzt,f�r eine Lebendige Flamme :)//
 part_type_direction(p_type,80,100,0,1) //Hier wird dei Richtung der Flamme gesetzt,damit die auch nach oben steigt//
 part_type_blend(p_type,1) //Hier wird die Farbmischung auf 'additiv' gesetzt damit der �bergang sehr fein ist,um es zu testen k�nnt ihr die 1 gegen eine 0 austauschen//
 
