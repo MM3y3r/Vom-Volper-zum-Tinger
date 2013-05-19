@@ -1,0 +1,13 @@
+1.	Gehe auf Github und mache nen Clone von dem Projekt
+2.	Setze eine Verknüpfung von der Github Userdata auf den Desktop (einfacher die Daten zum bearbeiten später wieder zu finden)
+(3.)	gehe ins Github und synchronisiere die Daten
+4.	Änder etwas in dem Ordner, zbs. adde ein Bild oder änder eine file. (DIE *.GB1 und *.GMK FILES NUR UNTER ABSPRACHE ÄNDERN SONST DÜRF IHR SELBER MERGEN ;) )
+5.	Gehe auf Github und er sollte automatisch die Änderungen erkennen.
+	Für den Commit für Daten (die nicht in der *.gmk oder dessen backup-datei vorgenommen wurden) setze bitte in der Info zur Übersichtlichkeit ein [OG] vorne drann 
+	und dahinter Infos, was geändert wurde.
+6.	Klicke auf commit für den master repo. und warte bis es hochgeladen wurde. 
+7.	Einmal auf "sync" clicken und wenn alles funktioniert ist es perfekt auf dem Server ;)
+
+
+Viele Grüße,
+Bernd
