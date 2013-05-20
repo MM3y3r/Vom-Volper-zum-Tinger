@@ -1,0 +1,22 @@
+1. Bearbeite nie die .gmk Datei ohne vorher nach Erlaubnis bei Max zu fragen
+
+2. Jeder der keinen Input zum Projekt liefert kommt nicht in die Credits/fliegt raus
+
+3. Jeder der keinen NÜTZLICHEN Input liefert kommt nicht in die Credits/fliegt raus
+
+--- Aktueller Status der Credits ---
+
+
+
+Organisation/Coding:
+
+Max
+
+LvL-Design/Art:
+
+Bernd
+
+Art:
+
+Daniel
+Tim
