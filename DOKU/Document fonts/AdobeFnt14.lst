@@ -1,0 +1,121 @@
+%!Adobe-FontList 1.14
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+FullName:Helvetica 55 Roman
+MenuName:Helvetica 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLR____.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:41994
+FileModTime:987678592
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Roman
+NumMMAxes:0
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLR____.PFM
+FileLength:1091
+FileModTime:987678592
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigCond
+FamilyName:Helvetica Neue
+StyleName:27 Ultra Light Condensed
+FullName:Helvetica 27 Ultra Light Condensed
+MenuName:HelveticaNeue UltraLigCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLA____.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:43135
+FileModTime:987678614
+WeightClass:100
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigCond
+NumMMAxes:0
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLA____.PFM
+FileLength:1326
+FileModTime:987678614
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:25 Ultra Light
+FullName:Helvetica 25 Ultra Light
+MenuName:Helvetica 25 UltraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLUL___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:42926
+FileModTime:987678594
+WeightClass:100
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLight
+NumMMAxes:0
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\HLUL___.PFM
+FileLength:1049
+FileModTime:987678594
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Vowozuti_Doku Ordner_v2\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329306826
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
